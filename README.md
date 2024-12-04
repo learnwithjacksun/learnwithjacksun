@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @learnwithjacksun
+- 👋 Hi, I’m Gift Jacksun
 - 👀 I’m interested in building things for the web, mobile & desktop apps, and Blockchain
 - 🌱 I’m currently learning Flutter and React Native
 - 💞️ I’m looking to collaborate with everyone
